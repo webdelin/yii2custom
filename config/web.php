@@ -1,15 +1,8 @@
 <?php
 
-/* 
-* Wendelin Gerein
-* Webdesign/Webentwicklung
-* https://www.webdelin.de
-*
-* user=Wendelin Gerein <info@webdelin.de>
-*/
-
 return [
-    'id' => 'affilibeans',
+    
+    'id' => 'yii',
     'basePath' => realpath( __DIR__ . '/../'),
     
 ];
