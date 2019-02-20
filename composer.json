@@ -1,5 +1,6 @@
 {
+	
     "require": {
-        "coinremitphp/coin-remitter": "^0.1.0"
+        "yiisoft/yii2": "*"
     }
 }
